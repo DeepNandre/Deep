@@ -1,8 +1,9 @@
-### Hey Folks! 👋
+### Hello Folks! 👋
+ 
+I am a junior year B.Tech CSE student with a strong interest in DevOps. I am skilled at Cloud computing and also have a significant interest in
 
-I am a 3rd year B.Tech CSE student with a strong interest in DevOps. I am skilled at Cloud computing and also have a significant interest in
 Information Security.
-
+ 
 Languages Known: Python, C++, Java, SQL
 
 Email: dnandreim@gmail.com
