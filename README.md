@@ -1,8 +1,6 @@
 ### Hello Folks! 👋
  
-I am a junior year B.Tech CSE student with a strong interest in DevOps. I am skilled at Cloud computing and also have a significant interest in
-
-Information Security.
+I am a 3rd year B.Tech CSE student with a strong interest in DevOps. I am skilled at Cloud computing and also have a significant interest in Information Security.
  
 Languages Known: Python, C++, Java, SQL
 
