@@ -5,7 +5,7 @@ I am a Junior year B.Tech CSE student with a strong interest in DevOps. I am ski
 ### Skills 
 Languages: Python, GO & Java
 
-Tools: Docker, Kubernetes, CI/CD
+Tools: Docker, Kubernetes, CI/CD, Octoparse
 
 Platforms: Google Cloud Platform(GCP), Amazon Web Services(AWS)
 
