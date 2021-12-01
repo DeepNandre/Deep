@@ -2,7 +2,7 @@
  
 I am a 3rd year B.Tech CSE student with a strong interest in DevOps. I am skilled at Cloud computing and also have a significant interest in Information Security.
  
-Languages Known: Python, C++, Java, SQL
+Languages Known: Python and Java
 
 Email: dnandreim@gmail.com
 
